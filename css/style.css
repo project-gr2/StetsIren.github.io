@@ -1,1 +1,27 @@
+body {
+  font-family: Arial, Verdana,  sans-serif; /* сімейство шрифтів */
+  font-size: 11pt; /* Розмір основного шрифту в пунктах  */
+  background-color: #f0f0f0; /* фон веб-строрінки */
+  color: #333; /* Колір основного тексту */ 
+}
+h1 {
+  color: #a52a2a; /* Колір заголовку */
+  font-size: 24pt; /* Размір шрифту в пунктах */
+  font-family: Arial, Verdana,  sans-serif; /* Сімейство шрифтів */
+  font-weight: normal; /* Нормальне зображення тексту  */
+}
+p {
+  text-align: justify; /* Вирівнювання по ширині */
+  margin-left: 60px; /* відступ зліва в пікселях */
+  margin-right: 10px; /* відступ зправа в пікселях */
+  padding-left: 10px; /* Відступ від лінії зліва до текста  */
+}
+.paragraf{
+    background:#509950;
+    border-left:15px solid #008500;
+    margin:10px;
+    padding-left:10px;
+    padding-bottom:5px;
+    color:#fff;
+}
 
